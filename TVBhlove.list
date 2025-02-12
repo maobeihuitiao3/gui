@@ -1,0 +1,45 @@
+# 内容：香港流媒体规则集
+# 包含：HLove、myTVsuper、TVB等香港流媒体服务
+DOMAIN-KEYWORD,hlove
+DOMAIN-SUFFIX,hlove.tv
+DOMAIN-SUFFIX,iptv200.com
+DOMAIN-SUFFIX,ymedium.top
+DOMAIN-SUFFIX,mytvsuper.com.mp
+DOMAIN-SUFFIX,mytvsuper.us.kg
+DOMAIN-SUFFIX,gditv.us.kg
+DOMAIN-SUFFIX,creativehub.sbs
+DOMAIN-SUFFIX,cloudflareclient.com
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,plusai.me
+DOMAIN-SUFFIX,akile.io
+# TVB相关域名
+DOMAIN,bcbolt446c5271-a.akamaihd.net
+DOMAIN,edge.api.brightcove.com
+DOMAIN,tvbtracking.azurewebsites.net
+DOMAIN-SUFFIX,bigbigchannel.com.hk
+DOMAIN-SUFFIX,bigbigshop.com
+DOMAIN-SUFFIX,content.jwplatform.com
+DOMAIN-SUFFIX,encoretvb.com
+DOMAIN-SUFFIX,mytvsuper.com
+DOMAIN-SUFFIX,mytvsuperlimited.hb.omtrdc.net
+DOMAIN-SUFFIX,mytvsuperlimited.sc.omtrdc.net
+DOMAIN-SUFFIX,tvb.com
+DOMAIN-SUFFIX,tvb.com.au
+DOMAIN-SUFFIX,tvbanywhere.com
+DOMAIN-SUFFIX,tvbanywhere.com.sg
+DOMAIN-SUFFIX,tvbc.com.cn
+DOMAIN-SUFFIX,tvbeventpower.com.hk
+DOMAIN-SUFFIX,docker.mytvsuper.us.kg
+DOMAIN-SUFFIX,tvbusa.com
+DOMAIN-SUFFIX,tvbweekly.com
+DOMAIN-SUFFIX,tvmedia.net.au
+DOMAIN-SUFFIX,videos-f.jwpsrv.com
+DOMAIN-SUFFIX,567852.xyz
+DOMAIN-SUFFIX,console.567852.xyz
+DOMAIN-SUFFIX,youboranqs01.com
+DOMAIN-SUFFIX,mytvb.livednow.us.kg
+DOMAIN-SUFFIX,edgeware.tvb.com
+DOMAIN-SUFFIX,beesport.livednow.com
+DOMAIN-SUFFIX,assets.livednow.com
+DOMAIN-SUFFIX,mainserver.567852.xyz
+DOMAIN-SUFFIX,*.mytvsuper.us.kg 

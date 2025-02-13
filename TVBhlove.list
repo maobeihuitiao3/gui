@@ -43,3 +43,5 @@ DOMAIN-SUFFIX,beesport.livednow.com
 DOMAIN-SUFFIX,assets.livednow.com
 DOMAIN-SUFFIX,mainserver.567852.xyz
 DOMAIN-SUFFIX,*.mytvsuper.us.kg 
+# stream-link
+DOMAIN-SUFFIX,stream-link.org

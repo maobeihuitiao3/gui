@@ -1,1 +1,278 @@
-DOMAIN-SUFFIX,emby.69yun69.com
+# 内容：XPTV 及网盘服务规则集
+DOMAIN,gateway.icloud.com
+DOMAIN,metrics.icloud.com
+
+# XPTV封面来源
+# 小海报
+DOMAIN-SUFFIX,doubanio.com
+# 大封面
+DOMAIN,image.tmdb.org
+
+# 弹幕
+DOMAIN,dandanplay.net
+
+# 网盘规则
+# 阿里
+DOMAIN-SUFFIX,aliyundrive.com
+DOMAIN-SUFFIX,voicehub.top
+# 夸克
+DOMAIN-SUFFIX,quark.cn
+# 天翼
+DOMAIN-SUFFIX,189.cn
+DOMAIN-SUFFIX,ctyunxs.cn
+# 115
+DOMAIN-SUFFIX,115.com
+# UC
+DOMAIN-SUFFIX,uc.cn
+# 小雅
+DOMAIN-SUFFIX,xiaoya.pro
+
+# 网盘源
+# 小米
+DOMAIN,mihdr.top
+# 木偶
+DOMAIN-SUFFIX,mogg.top
+# 玩偶
+DOMAIN-SUFFIX,wogg.net
+# 雷鲸
+DOMAIN,www.leijing.xyz
+# 校长
+DOMAIN,xzys.fun
+# 蜡笔
+DOMAIN-SUFFIX,duopan.fun
+# 南风
+DOMAIN,www.nanf.cc
+# 多多
+DOMAIN,yydsys.top
+# 欧歌
+DOMAIN,woog.nxog.eu.org
+# 云盘吧
+DOMAIN,yunpan8.cc
+
+# nmlive相关
+DOMAIN-SUFFIX,bilivideo.com
+DOMAIN,slink.ltd
+DOMAIN-SUFFIX,douyincdn.com
+DOMAIN-SUFFIX,douyinpic.com
+DOMAIN-SUFFIX,douyucdn.cn
+DOMAIN-SUFFIX,douyucdn2.cn
+DOMAIN-SUFFIX,huya.com
+DOMAIN-SUFFIX,msstatic.com
+DOMAIN,lemonlive.deno.dev
+
+# VOD源
+# 低端主页与播放
+DOMAIN-SUFFIX,ddys.pro
+# AGE主页
+DOMAIN-SUFFIX,agedm.org
+# ギリギリ主页
+DOMAIN,anime.girigirilove.com
+# 播放
+DOMAIN,love.girigirilove.com
+DOMAIN,m3u8.girigirilove.com
+
+# 瓜子主页
+DOMAIN,api.9cec79d.com
+# 播放
+DOMAIN,wjm.kemfsj.com
+# 4k-av播放
+DOMAIN,www.4k-av.com
+
+# 囧动漫主页
+DOMAIN,43.142.232.217
+# 播放
+DOMAIN-SUFFIX,fanchenstatic.com
+DOMAIN,i0.hdslb.com
+DOMAIN-SUFFIX,bsgslb.cn
+DOMAIN-SUFFIX,bytetos.com
+DOMAIN-SUFFIX,douyinvod.com
+DOMAIN-SUFFIX,byteimg.com
+
+# libvio主页
+DOMAIN,www.libvio.cc
+# 播放
+DOMAIN-SUFFIX,mcloud.139.com
+DOMAIN-SUFFIX,libvio.cloud
+
+# anfuns相关
+DOMAIN-SUFFIX,anfuns.org
+DOMAIN-SUFFIX,bytegiftia.top
+DOMAIN-SUFFIX,lenovo.com.cn
+DOMAIN,image.zhihuishu.com
+DOMAIN,presale.111.com.cn
+
+# hdmoli主页
+DOMAIN,hdmoli.pro
+# 播放
+DOMAIN,v.damoli.pro
+
+# 哔嘀影视主页
+DOMAIN,www.xlys01.com
+# 播放
+DOMAIN-SUFFIX,bytetos.com
+
+# 烧火影视主页
+DOMAIN,saohuo.tv
+# 播放
+DOMAIN,hhjx.hhplayer.com
+DOMAIN-SUFFIX,video.iqiyi.com
+DOMAIN-SUFFIX,qitu-zuida.com
+DOMAIN,om.tc.qq.com
+DOMAIN-SUFFIX,ibytedtos.com
+DOMAIN-SUFFIX,1ljx.com
+DOMAIN-SUFFIX,smtcdns.com
+DOMAIN,cme-video.vod-qcloud.com
+DOMAIN,hhjx.hhplayer.com
+
+# NO视频主页
+DOMAIN,www.novipnoad.net
+# 播放
+DOMAIN-SUFFIX,novipnoad.net
+
+# 韩剧看看主页
+DOMAIN,www.hanjukankan.com
+DOMAIN,glzx.thekutv.com
+# 播放
+DOMAIN-SUFFIX,thehanju.com
+DOMAIN-SUFFIX,vvddoo.com
+
+# 星芽主页
+DOMAIN,qiniu.rongjuwh.cn
+DOMAIN,app.whjzjx.cn
+DOMAIN,u.shytkjgs.com
+# 播放
+DOMAIN-SUFFIX,qnqcdn.net
+DOMAIN-SUFFIX,xingya.com.cn
+
+# 小苹果播放
+DOMAIN,cj.yayazy.net
+DOMAIN-SUFFIX,qdhdcate.com
+DOMAIN,cj.vodimg.top
+DOMAIN-SUFFIX,ghij11.com
+DOMAIN-SUFFIX,tlkqc.com
+
+# U酷主页
+DOMAIN,api.ukuapi.com
+# 播放
+DOMAIN-KEYWORD,ukzy.ukubf
+
+# 豪华主页
+DOMAIN,hhzyapi.com
+# 播放
+DOMAIN,play.hhuus.com
+DOMAIN,p.hhwenjian.com
+
+# 极速主页
+DOMAIN,jszyapi.com
+
+# 索尼主页
+DOMAIN,snzypic.vip
+# 播放
+DOMAIN-KEYWORD,.hiij
+DOMAIN-SUFFIX,nopqq.vip
+DOMAIN-SUFFIX,uvwwx.vip
+DOMAIN-SUFFIX,pqqrs.vip
+DOMAIN-SUFFIX,qrssv.com
+
+# ikun主页
+DOMAIN,www.imgikzy.com
+# 播放
+DOMAIN,kkzycdn.com
+DOMAIN,bfikuncdn.com
+
+# 暴风主页
+DOMAIN-SUFFIX,bfzypic.com
+DOMAIN,bfzyapi.com
+# 播放
+DOMAIN-SUFFIX,bfllvip.com
+
+# 红牛主页
+DOMAIN,www.hongniuzy2.com
+# 播放
+DOMAIN,hn.bfvvs.com
+DOMAIN,hnts.ymuuy.com
+
+# 快车主页
+DOMAIN,caijl.kczyapi.com
+# 播放
+DOMAIN-SUFFIX,fghjklm.com
+DOMAIN-SUFFIX,ijkklmn.com
+DOMAIN-SUFFIX,longshengtea.com
+DOMAIN-SUFFIX,stuuv.vip
+
+# 闪电主页
+DOMAIN,sdzyapi.com
+# 播放
+DOMAIN-SUFFIX,qrrs56.com
+DOMAIN-SUFFIX,wwxy0.com
+DOMAIN-SUFFIX,fentvoss.com
+
+# 樱花主页
+DOMAIN,m3u8.apiyhzy.com
+# 播放
+DOMAIN-SUFFIX,ijkkl.vip
+DOMAIN-SUFFIX,abcce.vip
+DOMAIN-SUFFIX,mmnn34.com
+DOMAIN-SUFFIX,vwxx78.com
+DOMAIN-SUFFIX,stttu.vip
+DOMAIN-SUFFIX,tuvvv.vip
+DOMAIN-SUFFIX,ijkmnno.com
+DOMAIN-SUFFIX,deefg.vip
+DOMAIN-SUFFIX,lmnoprs.com
+
+# 卧龙主页
+DOMAIN,collect.wolongzyw.com
+DOMAIN,pic.wlongimg.com
+# 播放
+DOMAIN-KEYWORD,cdn.wls
+DOMAIN-KEYWORD,cdn.wlcdn
+
+# 虎牙主页与播放
+DOMAIN-KEYWORD,.huya
+
+# 飘零主页
+DOMAIN,p2100.net
+
+# 无尽主页
+DOMAIN,api.wujinapi.com
+# 播放
+DOMAIN-SUFFIX,stuv67.com
+DOMAIN-SUFFIX,hjjk22.com
+DOMAIN-SUFFIX,jkkl23.com
+DOMAIN,v5.xyaa88.com
+
+# 速博主页
+DOMAIN-KEYWORD,subo
+# 播放
+DOMAIN,play.subokk.com
+DOMAIN-SUFFIX,xlzyd.com
+
+# 魔都主页
+DOMAIN,caiji.moduapi.cc
+DOMAIN,www.mdzypic.com
+# 播放
+DOMAIN-KEYWORD,play.modujx
+
+# 最大主页
+DOMAIN,ok.zuidapic.com
+DOMAIN,zuidazy.me
+# 播放
+DOMAIN-SUFFIX,daayee.com
+
+# 新浪主页
+DOMAIN,xinlangtupian.com
+# 播放
+DOMAIN,play.xluuss.com
+
+# 八戒播放
+DOMAIN-SUFFIX,monidai.com
+DOMAIN-SUFFIX,hdslb.pro
+
+# XPAV源
+# Hanime1播放
+DOMAIN,vdownload.hembed.com
+# MISSAV播放
+DOMAIN,surrit.com
+# SupJav-ST播放
+DOMAIN,streamtape.com
+DOMAIN-SUFFIX,tapecontent.net

@@ -1,8 +1,3 @@
-# 全球直连规则集
-# 请确保以下直连规则位于所有其他规则之前
-DOMAIN-SUFFIX,69yun69.com
-DOMAIN-SUFFIX,beebi.org
-
 # 内容：XPTV 及网盘服务规则集
 DOMAIN,gateway.icloud.com
 DOMAIN,metrics.icloud.com

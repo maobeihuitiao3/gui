@@ -2,6 +2,11 @@
 DOMAIN,gateway.icloud.com
 DOMAIN,metrics.icloud.com
 
+# 新增服务网站
+DOMAIN,emby.69yun69.com
+DOMAIN,emby3.69yun69.com
+DOMAIN,beebi.org
+
 # XPTV封面来源
 # 小海报
 DOMAIN-SUFFIX,doubanio.com
